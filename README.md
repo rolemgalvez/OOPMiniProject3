@@ -1,4 +1,4 @@
-# OOP Mini Project 2
+# OOP Mini Project 3
 A solution containing .NET 5 (Console) and .NET Standard 2.1 projects about Advanced OOP.
 
 ## Purpose
